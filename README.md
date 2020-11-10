@@ -18,6 +18,8 @@
 模型请在启动器中选择，首次启动时会直接弹出文件选择对话框，之后可以选择曾经加载过的模型  
 插件请放置到`~/.chara/plugin`目录中，windows下对应`%userprofile%\.chara\plugin`目录，目录可能需要手动创建
 
+> MacOS下安装pkg时，会报告“不信任的开发者”。这是正常现象。需要进入“系统偏好设置”-“安全性与隐私”-“通用”中，手动允许pkg执行。
+
 ## Chara
 
 功能和演示请见[这里](http://blog.cassite.net/Chara)
