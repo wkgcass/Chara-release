@@ -4,7 +4,7 @@
 
 | 名称                        | 分支                      | 类型                    | 版本                | 链接 |
 |-----------------------------|---------------------------|-------------------------|---------------------|------|
-| Chara                       | chara                     | 启动器                  | 1.0.0               | [macos](https://github.com/wkgcass/Chara-release/raw/release-chara-latest/chara.pkg) [windows](https://github.com/wkgcass/Chara-release/raw/release-chara-latest/chara.msi)
+| Chara                       | chara                     | 启动器                  | 1.0.1               | [macos](https://github.com/wkgcass/Chara-release/raw/release-chara-latest/chara.pkg) [windows](https://github.com/wkgcass/Chara-release/raw/release-chara-latest/chara.msi)
 | 心璃 (kokori)               | kokori                    | 模型（人物）            | 1.0.0               | [kokori-high-dpi.model](https://github.com/wkgcass/Chara-release/raw/release-kokori-latest/kokori-high-dpi.model) [kokori-mini.model](https://github.com/wkgcass/Chara-release/raw/release-kokori-latest/kokori-mini.model) |
 | console-plugin              | console                   | 插件                    | 1.0.0               | [console.plugin](https://github.com/wkgcass/Chara-release/raw/release-console-latest/console.plugin) |
 | debug-plugin                | debug                     | 插件                    | 1.0.0               | [debug.plugin](https://github.com/wkgcass/Chara-release/raw/release-debug-latest/debug.plugin) |
