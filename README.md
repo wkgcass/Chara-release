@@ -43,6 +43,11 @@ git clone https://github.com/wkgcass/Chara-release --depth=1 --single-branch --b
 
 临时分支中的二进制文件可能随时被替换或移除。一般是用于存放快速修复了一些小bug的临时版本。临时分支命名：`temporary-${project}-${version}`。
 
+| 名称                        | 分支                      | 类型                    | 版本                | 链接 |
+|-----------------------------|---------------------------|-------------------------|---------------------|------|
+| Chara                       | chara                     | 启动器                  | 1.1.0               | [macos](https://github.com/wkgcass/Chara-release/raw/temporary-chara-1.1.0/chara.pkg)
+| vpws-agent                  | vpws-agent                | 模型（小组件）          | 1.0.0               | [vpws-agent.model](https://github.com/wkgcass/Chara-release/raw/temporary-vpws-agent-1.0.0/vpws-agent.model)
+
 ## 分支内容
 
 每个二进制文件都会有如下附属文件：
